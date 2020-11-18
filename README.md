@@ -18,7 +18,7 @@ page
 
     <hr>
 
-  	<a href="https://lullabynagi.github.io/Wise-Free-Website-Template---Free-CSS.com/"><center><font size="70">作業網站</font
+  	<a href="https://lullabynagi.github.io/templatemo_530_mini_profile/"><center><font size="70">作業網站</font
     </center></a>
     <hr>
     
